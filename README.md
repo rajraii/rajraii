@@ -2,7 +2,7 @@
 - i'm currently a grd student with high ambitions 
 - 👀 I’m interested in data science and ML
 - 🌱 I’m currently learning DSA
-- 2021 goal: to contribut to open source
+- 2021 goal: to contribute to open source
 - 💞️ I’m looking to collaborate on projects based on cloud computing and data server
 - 📫 How to reach me rrai1590@gmail.com
 

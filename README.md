@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajraii[Raj Rai]
-- i'm currently a grd student with high ambitions 
+- i'm currently a udergrad student with high ambitions 
 - 👀 I’m interested in data science and ML
 - 🌱 I’m currently learning DSA
 - 2021 goal: to contribute to open source

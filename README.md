@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rajraii[Raj Rai]
 - 📚 I'm currently a udergrad student with high ambitions 
-- 👀 I'm a web developer
+- 👀 I'm a Software Developer
+- I have been working as a freelancer, developer and woould love to work with you.
 - My projects will be published directly github so you can see them.
-- 🏢 2021 goal: to contribute to open source
 - 📫 How to reach me rrai1590@gmail.com & https://www.linkedin.com/in/raj-rai-933420132/
 
 <!---
